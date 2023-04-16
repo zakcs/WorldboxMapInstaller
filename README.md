@@ -18,7 +18,3 @@ This is a Python script that provides a graphical user interface (GUI) for insta
 3. Run the script using a Python interpreter or IDE.
 4. Use the GUI to select the map file, preview image file, and save slot number.
 5. Click the "Save Map" button to save the map and preview image to the specified save slot in the Worldbox save folder.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
